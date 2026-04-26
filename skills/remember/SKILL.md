@@ -1,6 +1,6 @@
 ---
 description: CLAUDE.mdに記憶を追加・更新する
-argument-hint: [--global|-g] [--project|-p] <覚えてほしいこと>
+argument-hint: "[--global|-g] [--project|-p] <覚えてほしいこと>"
 allowed-tools:
   - Read
   - Edit
